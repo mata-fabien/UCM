@@ -1,6 +1,6 @@
 ---
-title: Workshop Prep
-nav: Chapitre1
+title: Introduction
+nav: Introduction
 topics: GitHub; Optional Software
 ---
 

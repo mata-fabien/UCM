@@ -1,6 +1,6 @@
 ---
-title: Create Lesson Content
-nav: Content
+title: Projets
+nav: Projets
 topics: Content; Markdown; Includes
 description: >
     This text is a 'section description'. Directly below this is an example section video embed. This page details how to write content pages and add interest with includes.

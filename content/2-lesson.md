@@ -1,6 +1,6 @@
 ---
-title: Get Started
-nav: Start
+title: Analyse exploratoire multivariee
+nav: Chapitre 2
 topics: Template; Basic Config
 ---
 

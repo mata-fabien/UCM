@@ -15,7 +15,7 @@ title: workshop-template-b
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: don
+title-icon: pie-chart-fill
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "Create a workshop website quick and easy!"
@@ -27,7 +27,7 @@ featured-image: "/images/uidaho-workshop.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: Mata Fabien
+author: fabien Mata
 # your github username for link [optional]
 github_username: mata-fabien
 # year or date published

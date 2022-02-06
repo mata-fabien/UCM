@@ -1,6 +1,6 @@
 ---
 title: Introduction
-nav: Introduction
+nav: Intro
 topics: GitHub; Optional Software
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Analyse exploratoire multivariee
-nav: Chapitre 2
+title: Analyse exploratoire multivariée
+nav: Chap 2
 topics: Template; Basic Config
 ---
 
